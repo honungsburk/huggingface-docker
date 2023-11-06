@@ -1,0 +1,5 @@
+transformers>=4.35.0
+# higher torch version is not supported by m1 mac + docker
+# torch==2.0.*
+torch>=2.1.0
+scipy>=1.11.3
